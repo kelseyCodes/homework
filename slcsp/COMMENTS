@@ -1,0 +1,7 @@
+This program is meant to take the original_slcsp.csv and result in the existing slcsp.csv. This program, as requested, has already been run.
+
+To run this program yourself, delete the updated slcsp.csv and rename original_slcsp.csv to slcsp.csv (removing the second column and reverting the repo to its original state).
+
+Run python slcsp.py in terminal. 
+
+You can also run sanity_checks.py, which just contains a few quick checks to make sure we're on the right track (not tests).
